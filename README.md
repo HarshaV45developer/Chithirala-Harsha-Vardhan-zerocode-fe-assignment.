@@ -313,3 +313,29 @@ This project is built with modern web technologies and follows industry best pra
 ---
 
 **Built with ❤️ using React, TypeScript, and modern web technologies**
+
+
+
+
+
+
+
+Before page:
+
+![image](https://github.com/user-attachments/assets/2a1fa037-f4b8-46ad-b8a0-1b66e3f0548d)
+
+
+
+Register Page:
+
+![image](https://github.com/user-attachments/assets/e265a7bb-7d2b-44ac-9139-4753fcf429e9)
+
+Login Page: 
+
+![image](https://github.com/user-attachments/assets/54f2963a-1929-4ba3-ab1a-fafa2a428aa9)
+
+
+Chat AI Page:
+
+![image](https://github.com/user-attachments/assets/22187747-702f-40b7-8657-4c0f74ea8845)
+
