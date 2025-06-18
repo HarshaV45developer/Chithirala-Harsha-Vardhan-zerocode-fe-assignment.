@@ -1,3 +1,13 @@
+How to install this project Steps:
+-> Download My zip file or clone this using this command git clone : https://github.com/HarshaV45developer/Fama-Barber-Shop-Landing.git
+-> After open the VS Code in this folder
+-> Open terminal use this command's 
+-> npm install 
+-> npm run dev
+-> after run this command there displays a some website URLS Open in brower
+-> Local:   http://localhost:8080/
+
+
 # ChatBot AI - Intelligent Conversation Platform
 
 A modern, responsive web application built with React, TypeScript, and Tailwind CSS that provides an intelligent chatbot interface with advanced features like voice input, chat export, and real-time messaging.
@@ -339,3 +349,6 @@ Chat AI Page:
 
 ![image](https://github.com/user-attachments/assets/22187747-702f-40b7-8657-4c0f74ea8845)
 
+
+live Link :
+https://chithirala-harsha-vardhan-zerocode.vercel.app/
