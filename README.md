@@ -327,6 +327,12 @@ This project is built with modern web technologies and follows industry best pra
 
 
 
+ZeroCode ChatBot Web App Architecture:
+
+![image](https://github.com/user-attachments/assets/20ea2242-91ed-4782-9bce-8878d51933e0)
+
+
+
 
 
 
